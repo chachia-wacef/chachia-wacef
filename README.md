@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chachia-wacef
 - 👀 I’m interested in Data Science , IA , Cloud Computing
-- 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me mohamedwacef.chachia@supcom.tn
 
 <!---
