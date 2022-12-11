@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chachia-wacef
-- 👀 I’m interested in Data Science , IA , Cloud Computing
-- 📫 How to reach me mohamedwacef.chachia@supcom.tn
+- 👀 I’m Data Scientist
+- 📫 How to reach me wacefchachia5@gmail.com
 
 <!---
 chachia-wacef/chachia-wacef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
